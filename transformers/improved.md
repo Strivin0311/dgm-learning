@@ -1,0 +1,114 @@
+# Improved Transformers
+*Here's some resources about Improved Transformers*
+
+
+#### Meta-transformer: A unified framework for multimodal learning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2307.10802)
+
+citation: 
+```bibtex
+@article{zhang2023meta,
+  title={Meta-transformer: A unified framework for multimodal learning},
+  author={Zhang, Yiyuan and Gong, Kaixiong and Zhang, Kaipeng and Li, Hongsheng and Qiao, Yu and Ouyang, Wanli and Yue, Xiangyu},
+  journal={arXiv preprint arXiv:2307.10802},
+  year={2023}
+}
+```
+
+#### Perceiver io: A general architecture for structured inputs & outputs [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2107.14795.pdf%EF%BC%9B%E4%BB%A3%E7%A0%81%EF%BC%9Ahttps://github.com/deepmind/deepmind-research/tree/master/perceiver)
+
+citation: 
+```bibtex
+@article{jaegle2021perceiver,
+  title={Perceiver io: A general architecture for structured inputs \& outputs},
+  author={Jaegle, Andrew and Borgeaud, Sebastian and Alayrac, Jean-Baptiste and Doersch, Carl and Ionescu, Catalin and Ding, David and Koppula, Skanda and Zoran, Daniel and Brock, Andrew and Shelhamer, Evan and others},
+  journal={arXiv preprint arXiv:2107.14795},
+  year={2021}
+}
+```
+    
+    
+
+#### Pay attention to mlps [`READ`]
+
+paper link: [here](https://proceedings.neurips.cc/paper/2021/file/4cc05b35c2f937c5bd9e7d41d3686fff-Paper.pdf)
+
+citation: 
+```bibtex
+@article{liu2021pay,
+  title={Pay attention to mlps},
+  author={Liu, Hanxiao and Dai, Zihang and So, David and Le, Quoc V},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={9204--9215},
+  year={2021}
+}
+```
+    
+
+#### The evolved transformer [`READ`]
+
+paper link: [here](http://proceedings.mlr.press/v97/so19a/so19a.pdf)
+
+citation: 
+```bibtex
+@inproceedings{so2019evolved,
+  title={The evolved transformer},
+  author={So, David and Le, Quoc and Liang, Chen},
+  booktitle={International conference on machine learning},
+  pages={5877--5886},
+  year={2019},
+  organization={PMLR}
+}
+```
+    
+
+
+#### Convolutional self-attention networks [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/1904.03107)
+
+citation: 
+```bibtex
+@article{yang2019convolutional,
+  title={Convolutional self-attention networks},
+  author={Yang, Baosong and Wang, Longyue and Wong, Derek and Chao, Lidia S and Tu, Zhaopeng},
+  journal={arXiv preprint arXiv:1904.03107},
+  year={2019}
+}
+```
+
+
+#### Modeling recurrence for transformer [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/1904.03092)
+
+citation: 
+```bibtex
+@article{hao2019modeling,
+  title={Modeling recurrence for transformer},
+  author={Hao, Jie and Wang, Xing and Yang, Baosong and Wang, Longyue and Zhang, Jinfeng and Tu, Zhaopeng},
+  journal={arXiv preprint arXiv:1904.03092},
+  year={2019}
+}
+```
+    
+
+#### Modeling localness for self-attention networks [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/1810.10182)
+
+citation: 
+```bibtex
+@article{yang2018modeling,
+  title={Modeling localness for self-attention networks},
+  author={Yang, Baosong and Tu, Zhaopeng and Wong, Derek F and Meng, Fandong and Chao, Lidia S and Zhang, Tong},
+  journal={arXiv preprint arXiv:1810.10182},
+  year={2018}
+}
+```
+    
+    

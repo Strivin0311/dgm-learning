@@ -2,7 +2,7 @@
 
 A sub-repository about Generative Adversarial Networks(GANs), a kind of deep generative models prevailing in CV for a long time in years from 2014 to 2019
 
-It's hard to classify the GANs, so an expedient method is to give a taxonomy based on structures and training strategies
+It's hard to well-classify the GANs, so an expedient method is to give a taxonomy based on structures and training strategies
 
 ## Table of Contents
 * [Vanilla GANs](./vanilla.md)
