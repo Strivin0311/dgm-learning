@@ -18,22 +18,7 @@ citation:
 }
 ```
 
-#### Generative modeling by estimating gradients of the data distribution [`UNREAD`]
 
-paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf)
-
-citation: 
-```bibtex
-@article{song2019generative,
-  title={Generative modeling by estimating gradients of the data distribution},
-  author={Song, Yang and Ermon, Stefano},
-  journal={Advances in neural information processing systems},
-  volume={32},
-  year={2019}
-}
-```
-    
-    
 
 #### A connection between score matching and denoising autoencoders [`UNREAD`]
 
