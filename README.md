@@ -13,4 +13,5 @@ A repository sharing the literatures about deep generative models, including ene
 * [GANs](./gans/README.md)
 * [Diffusers](./diffusers/README.md)
 * [Transformers](./transformers/)
+* [Others](./others.md)
 * [Survey](./survey.md)
