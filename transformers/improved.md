@@ -47,6 +47,21 @@ citation:
   year={2021}
 }
 ```
+
+#### Glu variants improve transformer [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2002.05202.pdf%5C%5D)
+
+citation: 
+```bibtex
+@article{shazeer2020glu,
+  title={Glu variants improve transformer},
+  author={Shazeer, Noam},
+  journal={arXiv preprint arXiv:2002.05202},
+  year={2020}
+}
+```
+       
     
 
 #### The evolved transformer [`READ`]

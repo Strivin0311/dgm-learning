@@ -50,23 +50,18 @@ citation:
 }
 ```
 
+#### A survey of transformers [`UNREAD`]
 
-#### Transformer design and optimization: a literature survey [`UNREAD`]
-
-paper link: [here](https://www.researchgate.net/profile/Eleftherios-Amoiralis/publication/224588427_Transformer_Design_and_Optimization_A_Literature_Survey/links/0fcfd50e7eab732f89000000/Transformer-Design-and-Optimization-A-Literature-Survey.pdf)
+paper link: [here](https://www.sciencedirect.com/science/article/pii/S2666651022000146)
 
 citation: 
 ```bibtex
-@article{amoiralis2009transformer,
-  title={Transformer design and optimization: a literature survey},
-  author={Amoiralis, Eleftherios I and Tsili, Marina A and Kladas, Antonios G},
-  journal={IEEE Transactions on power delivery},
-  volume={24},
-  number={4},
-  pages={1999--2024},
-  year={2009},
-  publisher={IEEE}
+@article{lin2022survey,
+  title={A survey of transformers},
+  author={Lin, Tianyang and Wang, Yuxin and Liu, Xiangyang and Qiu, Xipeng},
+  journal={AI Open},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
-    
-    
+     
