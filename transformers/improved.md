@@ -2,6 +2,22 @@
 *Here's some resources about Improved Transformers*
 
 
+#### A Study on ReLU and Softmax in Transformer [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2302.06461)
+
+citation: 
+```bibtex
+@article{shen2023study,
+  title={A Study on ReLU and Softmax in Transformer},
+  author={Shen, Kai and Guo, Junliang and Tan, Xu and Tang, Siliang and Wang, Rui and Bian, Jiang},
+  journal={arXiv preprint arXiv:2302.06461},
+  year={2023}
+}
+```
+    
+
+
 #### Meta-transformer: A unified framework for multimodal learning [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2307.10802)

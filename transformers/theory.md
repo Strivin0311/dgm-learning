@@ -1,7 +1,6 @@
 # Theory on Transformers
 *Here's some resources about Theory on Transformers*
 
-
 #### Attention is not all you need: Pure attention loses rank doubly exponentially with depth [`UNREAD`]
 
 paper link: [here](http://proceedings.mlr.press/v139/dong21a/dong21a.pdf)
@@ -99,4 +98,19 @@ citation:
   year={2019}
 }
 ```
-    
+
+
+#### Online normalizer calculation for softmax [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1805.02867)
+
+citation: 
+```bibtex
+@article{milakov2018online,
+  title={Online normalizer calculation for softmax},
+  author={Milakov, Maxim and Gimelshein, Natalia},
+  journal={arXiv preprint arXiv:1805.02867},
+  year={2018}
+}
+```
+     
