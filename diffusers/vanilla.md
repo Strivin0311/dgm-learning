@@ -25,6 +25,8 @@ citation:
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
 
+here's a [notebook](../notebooks/vanilla%20diffusion%20model.ipynb) which implements and explains vanilla Diffusion model and do some experiments on car image generation
+
 citation: 
 ```bibtex
 @article{ho2020denoising,

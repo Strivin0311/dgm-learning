@@ -83,7 +83,35 @@ citation:
 }
 ```
     
+#### Are transformers universal approximators of sequence-to-sequence functions? [`UNREAD`]
 
+paper link: [here](https://arxiv.org/pdf/1912.10077)
+
+citation: 
+```bibtex
+@article{yun2019transformers,
+  title={Are transformers universal approximators of sequence-to-sequence functions?},
+  author={Yun, Chulhee and Bhojanapalli, Srinadh and Rawat, Ankit Singh and Reddi, Sashank J and Kumar, Sanjiv},
+  journal={arXiv preprint arXiv:1912.10077},
+  year={2019}
+}
+```
+
+#### On the turing completeness of modern neural network architectures [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1901.03429)
+
+citation: 
+```bibtex
+@article{perez2019turing,
+  title={On the turing completeness of modern neural network architectures},
+  author={P{\'e}rez, Jorge and Marinkovi{\'c}, Javier and Barcel{\'o}, Pablo},
+  journal={arXiv preprint arXiv:1901.03429},
+  year={2019}
+}
+```
+    
+    
 
 #### Transformer dissection: a unified understanding of transformer's attention via the lens of kernel [`UNREAD`]
 
