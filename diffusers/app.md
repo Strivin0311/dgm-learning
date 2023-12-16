@@ -56,6 +56,23 @@ citation:
 ### Text-to-Image
 
 
+#### Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation [`UNREAD`]
+
+paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{ruiz2023dreambooth,
+  title={Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation},
+  author={Ruiz, Nataniel and Li, Yuanzhen and Jampani, Varun and Pritch, Yael and Rubinstein, Michael and Aberman, Kfir},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={22500--22510},
+  year={2023}
+}
+```
+    
+
+
 #### ediffi: Text-to-image diffusion models with an ensemble of expert denoisers [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2211.01324.pdf%3C/p%3E)

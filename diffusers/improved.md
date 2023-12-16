@@ -2,6 +2,20 @@
 *Here's some resources about Improved Diffusers*
 
 
+#### Lcm-lora: A universal stable-diffusion acceleration module [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2311.05556)
+
+citation: 
+```bibtex
+@article{luo2023lcm,
+  title={Lcm-lora: A universal stable-diffusion acceleration module},
+  author={Luo, Simian and Tan, Yiqin and Patil, Suraj and Gu, Daniel and von Platen, Patrick and Passos, Apolin{\'a}rio and Huang, Longbo and Li, Jian and Zhao, Hang},
+  journal={arXiv preprint arXiv:2311.05556},
+  year={2023}
+}
+```
+
 
 #### Consistency models [`READ`]
 

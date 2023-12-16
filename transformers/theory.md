@@ -82,6 +82,38 @@ citation:
   year={2020}
 }
 ```
+
+#### Scaling laws for autoregressive generative modeling [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2010.14701)
+
+citation: 
+```bibtex
+@article{henighan2020scaling,
+  title={Scaling laws for autoregressive generative modeling},
+  author={Henighan, Tom and Kaplan, Jared and Katz, Mor and Chen, Mark and Hesse, Christopher and Jackson, Jacob and Jun, Heewoo and Brown, Tom B and Dhariwal, Prafulla and Gray, Scott and others},
+  journal={arXiv preprint arXiv:2010.14701},
+  year={2020}
+}
+```
+
+
+#### Scaling laws for neural language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2001.08361.pdf)
+
+citation: 
+```bibtex
+@article{kaplan2020scaling,
+  title={Scaling laws for neural language models},
+  author={Kaplan, Jared and McCandlish, Sam and Henighan, Tom and Brown, Tom B and Chess, Benjamin and Child, Rewon and Gray, Scott and Radford, Alec and Wu, Jeffrey and Amodei, Dario},
+  journal={arXiv preprint arXiv:2001.08361},
+  year={2020}
+}
+```
+    
+    
+
     
 #### Are transformers universal approximators of sequence-to-sequence functions? [`UNREAD`]
 
