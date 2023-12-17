@@ -53,6 +53,7 @@ citation:
 ```
 
 
+
 ### Text-to-Image
 
 
@@ -151,6 +152,21 @@ citation:
 }
 ```
     
+### Audio
+
+#### AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2304.00830)
+
+citation: 
+```bibtex
+@article{wang2023audit,
+  title={AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models},
+  author={Wang, Yuancheng and Ju, Zeqian and Tan, Xu and He, Lei and Wu, Zhizheng and Bian, Jiang and Zhao, Sheng},
+  journal={arXiv preprint arXiv:2304.00830},
+  year={2023}
+}
+```
     
     
     

@@ -2,6 +2,21 @@
 *Here's some resources about Improved Transformers*
 
 
+#### RWKV: Reinventing RNNs for the Transformer Era [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.13048)
+
+citation: 
+```bibtex
+@article{peng2023rwkv,
+  title={RWKV: Reinventing RNNs for the Transformer Era},
+  author={Peng, Bo and Alcaide, Eric and Anthony, Quentin and Albalak, Alon and Arcadinho, Samuel and Cao, Huanqi and Cheng, Xin and Chung, Michael and Grella, Matteo and GV, Kranthi Kiran and others},
+  journal={arXiv preprint arXiv:2305.13048},
+  year={2023}
+}
+```
+
+
 #### A Study on ReLU and Softmax in Transformer [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2302.06461)
@@ -34,7 +49,7 @@ citation:
 
 #### Perceiver io: A general architecture for structured inputs & outputs [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2107.14795.pdf%EF%BC%9B%E4%BB%A3%E7%A0%81%EF%BC%9Ahttps://github.com/deepmind/deepmind-research/tree/master/perceiver)
+paper link: [here](https://arxiv.org/pdf/2107.14795.pdf)
 
 citation: 
 ```bibtex
@@ -66,7 +81,7 @@ citation:
 
 #### Glu variants improve transformer [`READ`]
 
-paper link: [here](https://arxiv.org/pdf/2002.05202.pdf%5C%5D)
+paper link: [here](https://arxiv.org/pdf/2002.05202.pdf)
 
 citation: 
 ```bibtex

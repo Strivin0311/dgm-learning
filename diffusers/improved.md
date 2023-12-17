@@ -31,6 +31,22 @@ citation:
 ```
 
 
+#### A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.15347)
+
+citation: 
+```bibtex
+@article{zhang2023tale,
+  title={A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence},
+  author={Zhang, Junyi and Herrmann, Charles and Hur, Junhwa and Cabrera, Luisa Polania and Jampani, Varun and Sun, Deqing and Yang, Ming-Hsuan},
+  journal={arXiv preprint arXiv:2305.15347},
+  year={2023}
+}
+```
+    
+
+
 
 #### Sdxl: Improving latent diffusion models for high-resolution image synthesis [`UNREAD`]
 

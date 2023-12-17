@@ -2,7 +2,23 @@
 *Here's some resources about Auto Encoders*
 
 
-#### Deep feature consistent variational autoencoder [`READ`]
+#### Tree Variational Autoencoders (TVA) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.08984)
+
+citation: 
+```bibtex
+@article{manduchi2023tree,
+  title={Tree Variational Autoencoders},
+  author={Manduchi, Laura and Vandenhirtz, Moritz and Ryser, Alain and Vogt, Julia},
+  journal={arXiv preprint arXiv:2306.08984},
+  year={2023}
+}
+```
+    
+
+
+#### Deep feature consistent variational autoencoder (DVAE) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1610.00291)
 
@@ -39,7 +55,7 @@ citation:
     
 
     
-#### Auto-encoding variational bayes [`READ`]
+#### Auto-encoding variational bayes (VAE) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1312.6114.pdf)
 

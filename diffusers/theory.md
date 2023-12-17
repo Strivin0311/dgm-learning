@@ -1,5 +1,39 @@
-# Score Matching
-*Here's some resources about Score Matching*
+# Theory on Diffusers
+*Here's some resources about Theory on Diffusers, like score matching*
+
+
+#### Understanding the latent space of diffusion models through the lens of riemannian geometry [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2307.12868)
+
+citation: 
+```bibtex
+@article{park2023understanding,
+  title={Understanding the latent space of diffusion models through the lens of riemannian geometry},
+  author={Park, Yong-Hyun and Kwon, Mingi and Choi, Jaewoong and Jo, Junghyo and Uh, Youngjung},
+  journal={arXiv preprint arXiv:2307.12868},
+  year={2023}
+}
+```
+    
+
+
+#### Understanding and Mitigating Copying in Diffusion Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.20086)
+
+citation: 
+```bibtex
+@article{somepalli2023understanding,
+  title={Understanding and Mitigating Copying in Diffusion Models},
+  author={Somepalli, Gowthami and Singla, Vasu and Goldblum, Micah and Geiping, Jonas and Goldstein, Tom},
+  journal={arXiv preprint arXiv:2305.20086},
+  year={2023}
+}
+```
+
+
+### Score Matching
 
 
 #### Sliced score matching: A scalable approach to density and score estimation [`UNREAD`]
@@ -54,4 +88,5 @@ citation:
   year={2005}
 }
 ```
+    
     

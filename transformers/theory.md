@@ -1,5 +1,51 @@
 # Theory on Transformers
-*Here's some resources about Theory on Transformers*
+*Here's some resources about Theory on Transformers, like scaling laws*
+
+
+#### Do we need Attention? - Linear RNNs and State Space Models (SSMs) for NLP ['UNREAD']
+
+slide link: [here](https://github.com/srush/do-we-need-attention/blob/main/DoWeNeedAttention.pdf)
+
+citation:
+```bibtex
+@article{rush2023do,
+  title={Do we need Attention? - Linear RNNs and State Space Models (SSMs) for NLP},
+  author={sasha Rush},
+  journal={Hugging Face},
+  year={2023},
+  url={https://www.youtube.com/watch?v=dKJEpOtVgXc}
+}
+```
+
+
+#### Scaling Data-Constrained Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.16264)
+
+citation: 
+```bibtex
+@article{muennighoff2023scaling,
+  title={Scaling Data-Constrained Language Models},
+  author={Muennighoff, Niklas and Rush, Alexander M and Barak, Boaz and Scao, Teven Le and Piktus, Aleksandra and Tazi, Nouamane and Pyysalo, Sampo and Wolf, Thomas and Raffel, Colin},
+  journal={arXiv preprint arXiv:2305.16264},
+  year={2023}
+}
+```
+
+#### Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.12827)
+
+citation: 
+```bibtex
+@article{ortiz2023task,
+  title={Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models},
+  author={Ortiz-Jimenez, Guillermo and Favero, Alessandro and Frossard, Pascal},
+  journal={arXiv preprint arXiv:2305.12827},
+  year={2023}
+}
+```
+    
 
 #### Attention is not all you need: Pure attention loses rank doubly exponentially with depth [`UNREAD`]
 
