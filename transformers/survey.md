@@ -64,4 +64,19 @@ citation:
   publisher={Elsevier}
 }
 ```
+
+
+#### On word embeddings - Part 2: Approximating the Softmax [`UNREAD`]
+
+blog link: [here](https://www.ruder.io/word-embeddings-softmax/)
+
+citation:
+```bibtex
+@misc{ruder2016wordembeddingspart2,
+  author = {Ruder, Sebastian},
+  title = {{On word embeddings - Part 2: Approximating the Softmax}},
+  year = {2016},
+  howpublished = {\url{http://ruder.io/word-embeddings-softmax}},
+}
+```
      

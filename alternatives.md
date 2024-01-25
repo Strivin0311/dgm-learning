@@ -4,7 +4,7 @@
 
 ### Zoology
 
-#### Based: An Educational and Effective Sequence Mixer ['UNREAD']
+#### Based: An Educational and Effective Sequence Mixer [`UNREAD`]
 
 blog link: [here](https://hazyresearch.stanford.edu/blog/2023-12-11-zoology2-based)
 

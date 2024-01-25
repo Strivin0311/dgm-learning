@@ -2,7 +2,7 @@
 *Here's some resources about Theory on Transformers, like scaling laws*
 
 
-#### Do we need Attention? - Linear RNNs and State Space Models (SSMs) for NLP ['UNREAD']
+#### Do we need Attention? - Linear RNNs and State Space Models (SSMs) for NLP [`UNREAD`]
 
 slide link: [here](https://github.com/srush/do-we-need-attention/blob/main/DoWeNeedAttention.pdf)
 
