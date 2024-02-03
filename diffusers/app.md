@@ -1,5 +1,5 @@
 # Applications of Diffusers beyond Image Synthesis
-*Here's some resources about Applications of Diffusers beyond Image Synthesis*
+*Here're some resources about Applications of Diffusers beyond Image Synthesis*
 
 
 ### Video

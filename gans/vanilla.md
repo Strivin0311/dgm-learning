@@ -1,5 +1,5 @@
 # Vanilla GANs
-*Here's some resources about Vanilla GANs*
+*Here're some resources about Vanilla GANs*
 
 
 #### Nips 2016 tutorial: Generative adversarial networks [`READ`]

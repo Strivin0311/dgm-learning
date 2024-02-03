@@ -1,5 +1,5 @@
 # Faster Diffusers
-*Here's some resources about Faster Diffusers*
+*Here're some resources about Faster Diffusers*
 
 
 #### On distillation of guided diffusion models [`UNREAD`]

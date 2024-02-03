@@ -1,5 +1,5 @@
 # Theory on Diffusers
-*Here's some resources about Theory on Diffusers, like score matching*
+*Here're some resources about Theory on Diffusers, like score matching*
 
 
 #### Understanding the latent space of diffusion models through the lens of riemannian geometry [`UNREAD`]

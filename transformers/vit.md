@@ -1,5 +1,5 @@
 # Vision in Transformers
-*Here's some resources about Vision in Transformers*
+*Here're some resources about Vision in Transformers*
 
 
 #### FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization [`UNREAD`]

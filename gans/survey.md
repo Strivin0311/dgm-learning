@@ -1,5 +1,5 @@
 # Survey on GANs
-*Here's some resources about Survey on GANs*
+*Here're some resources about Survey on GANs*
 
 
 #### A review on generative adversarial networks: Algorithms, theory, and applications [`READ`]

@@ -1,5 +1,5 @@
 # Alternative DGMs beyond Transformers, Diffusers and AEs
-*Here's some resources about Alternative DGMs beyond Transformers, Diffusers and AEs, especially for sequence modeling*
+*Here're some resources about Alternative DGMs beyond Transformers, Diffusers and AEs, especially for sequence modeling*
 
 
 ### Zoology

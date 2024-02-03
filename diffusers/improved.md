@@ -1,5 +1,5 @@
 # Improved Diffusers
-*Here's some resources about Improved Diffusers*
+*Here're some resources about Improved Diffusers*
 
 
 #### Lcm-lora: A universal stable-diffusion acceleration module [`UNREAD`]

@@ -1,5 +1,5 @@
 # Fused GANs
-*Here's some resources about Fused GANs*
+*Here're some resources about Fused GANs*
 
 
 

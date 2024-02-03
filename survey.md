@@ -1,5 +1,5 @@
 # Survey on DGM
-*Here's some resources about Survey on DGM*
+*Here're some resources about Survey on DGM*
 
 
 #### ChatGPT is not all you need. A State of the Art Review of large Generative AI models [`UNREAD`]

@@ -1,5 +1,5 @@
 # Auto Encoders
-*Here's some resources about Auto Encoders*
+*Here're some resources about Auto Encoders*
 
 
 #### Tree Variational Autoencoders (TVA) [`UNREAD`]

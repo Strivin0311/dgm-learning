@@ -1,5 +1,5 @@
 # Vanilla Diffusers
-*Here's some resources about Vanilla Diffusers*
+*Here're some resources about Vanilla Diffusers*
 
 
 

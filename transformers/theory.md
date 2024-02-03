@@ -1,5 +1,5 @@
 # Theory on Transformers
-*Here's some resources about Theory on Transformers, like scaling laws*
+*Here're some resources about Theory on Transformers, like scaling laws*
 
 
 #### Do we need Attention? - Linear RNNs and State Space Models (SSMs) for NLP [`UNREAD`]

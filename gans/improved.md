@@ -1,5 +1,5 @@
 # Improved GAN
-*Here's some resources about Improved GAN*
+*Here're some resources about Improved GAN*
 
 
 

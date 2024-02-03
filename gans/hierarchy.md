@@ -1,5 +1,5 @@
 # Hierarchy GANs
-*Here's some resources about Hierarchy GANs*
+*Here're some resources about Hierarchy GANs*
 
 
 #### Stackgan++: Realistic image synthesis with stacked generative adversarial networks [`READ`]

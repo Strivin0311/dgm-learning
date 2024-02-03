@@ -1,5 +1,5 @@
 # Improved Transformers
-*Here's some resources about Improved Transformers*
+*Here're some resources about Improved Transformers*
 
 
 #### RWKV: Reinventing RNNs for the Transformer Era [`UNREAD`]
