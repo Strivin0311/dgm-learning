@@ -2,7 +2,7 @@
 *Here're some resources about Theory on Transformers, like scaling laws*
 
 
-#### Do we need Attention? - Linear RNNs and State Space Models (SSMs) for NLP [`UNREAD`]
+#### Do we need Attention? - Linear RNNs and State Space Models (SSMs) for NLP
 
 slide link: [here](https://github.com/srush/do-we-need-attention/blob/main/DoWeNeedAttention.pdf)
 
@@ -18,7 +18,7 @@ citation:
 ```
 
 
-#### Scaling Data-Constrained Language Models [`UNREAD`]
+#### Scaling Data-Constrained Language Models
 
 paper link: [here](https://arxiv.org/pdf/2305.16264)
 
@@ -32,7 +32,7 @@ citation:
 }
 ```
 
-#### Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models [`UNREAD`]
+#### Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models
 
 paper link: [here](https://arxiv.org/pdf/2305.12827)
 
@@ -47,7 +47,7 @@ citation:
 ```
     
 
-#### Attention is not all you need: Pure attention loses rank doubly exponentially with depth [`UNREAD`]
+#### Attention is not all you need: Pure attention loses rank doubly exponentially with depth
 
 paper link: [here](http://proceedings.mlr.press/v139/dong21a/dong21a.pdf)
 
@@ -63,7 +63,7 @@ citation:
 }
 ```
 
-#### Data movement is all you need: A case study on optimizing transformers [`UNREAD`]
+#### Data movement is all you need: A case study on optimizing transformers
 
 paper link: [here](https://proceedings.mlsys.org/paper_files/paper/2021/file/bc86e95606a6392f51f95a8de106728d-Paper.pdf)
 
@@ -81,7 +81,7 @@ citation:
 
 
 
-#### Understanding the difficulty of training transformers [`UNREAD`]
+#### Understanding the difficulty of training transformers
 
 paper link: [here](https://arxiv.org/pdf/2004.08249)
 
@@ -97,7 +97,7 @@ citation:
     
    
 
-#### Low-rank bottleneck in multi-head attention models [`UNREAD`]
+#### Low-rank bottleneck in multi-head attention models
 
 paper link: [here](http://proceedings.mlr.press/v119/bhojanapalli20a/bhojanapalli20a.pdf)
 
@@ -115,7 +115,7 @@ citation:
     
     
 
-#### A generalization of transformer networks to graphs [`UNREAD`]
+#### A generalization of transformer networks to graphs
 
 paper link: [here](https://arxiv.org/pdf/2012.09699)
 
@@ -129,7 +129,7 @@ citation:
 }
 ```
 
-#### Scaling laws for autoregressive generative modeling [`UNREAD`]
+#### Scaling laws for autoregressive generative modeling
 
 paper link: [here](https://arxiv.org/pdf/2010.14701)
 
@@ -144,7 +144,7 @@ citation:
 ```
 
 
-#### Scaling laws for neural language models [`UNREAD`]
+#### Scaling laws for neural language models
 
 paper link: [here](https://arxiv.org/pdf/2001.08361.pdf)
 
@@ -161,7 +161,7 @@ citation:
     
 
     
-#### Are transformers universal approximators of sequence-to-sequence functions? [`UNREAD`]
+#### Are transformers universal approximators of sequence-to-sequence functions?
 
 paper link: [here](https://arxiv.org/pdf/1912.10077)
 
@@ -175,7 +175,7 @@ citation:
 }
 ```
 
-#### On the turing completeness of modern neural network architectures [`UNREAD`]
+#### On the turing completeness of modern neural network architectures
 
 paper link: [here](https://arxiv.org/pdf/1901.03429)
 
@@ -191,7 +191,7 @@ citation:
     
     
 
-#### Transformer dissection: a unified understanding of transformer's attention via the lens of kernel [`UNREAD`]
+#### Transformer dissection: a unified understanding of transformer's attention via the lens of kernel
 
 paper link: [here](https://arxiv.org/pdf/1908.11775)
 
@@ -206,7 +206,7 @@ citation:
 ```
 
 
-#### Online normalizer calculation for softmax [`UNREAD`]
+#### Online normalizer calculation for softmax
 
 paper link: [here](https://arxiv.org/pdf/1805.02867)
 

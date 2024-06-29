@@ -2,7 +2,7 @@
 *Here're some resources about Survey on DGM*
 
 
-#### ChatGPT is not all you need. A State of the Art Review of large Generative AI models [`UNREAD`]
+#### ChatGPT is not all you need. A State of the Art Review of large Generative AI models
 
 paper link: [here](https://arxiv.org/pdf/2301.04655.pdf?mibextid=Zxz2cZ)
 
@@ -18,7 +18,7 @@ citation:
     
 
 
-#### Deep generative modelling: A comparative review of vaes, gans, normalizing flows, energy-based and autoregressive models [`READ`]
+#### Deep generative modelling: A comparative review of vaes, gans, normalizing flows, energy-based and autoregressive models
 
 paper link: [here](https://ieeexplore.ieee.org/iel7/34/9910240/09555209.pdf)
 
@@ -35,7 +35,7 @@ citation:
     
 
 
-#### A comprehensive survey and analysis of generative models in machine learning [`READ`]
+#### A comprehensive survey and analysis of generative models in machine learning
 
 paper link: [here](https://www.sciencedirect.com/science/article/pii/S1574013720303853)
 

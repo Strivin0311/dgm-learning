@@ -3,7 +3,7 @@
 
 
 
-#### Diffusion models beat gans on image synthesis [`READ`]
+#### Diffusion models beat gans on image synthesis
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf)
 
@@ -21,7 +21,7 @@ citation:
     
 
 
-#### Denoising diffusion probabilistic models [`READ`]
+#### Denoising diffusion probabilistic models
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
 
@@ -40,7 +40,7 @@ citation:
 ```
     
 
-#### Generative modeling by estimating gradients of the data distribution [`UNREAD`]
+#### Generative modeling by estimating gradients of the data distribution
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf)
 
@@ -56,7 +56,7 @@ citation:
 ```
 
 
-#### Deep unsupervised learning using nonequilibrium thermodynamics [`READ`]
+#### Deep unsupervised learning using nonequilibrium thermodynamics
 
 paper link: [here](http://proceedings.mlr.press/v37/sohl-dickstein15.pdf)
 

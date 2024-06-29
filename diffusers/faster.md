@@ -2,7 +2,7 @@
 *Here're some resources about Faster Diffusers*
 
 
-#### On distillation of guided diffusion models [`UNREAD`]
+#### On distillation of guided diffusion models
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2023/papers/Meng_On_Distillation_of_Guided_Diffusion_Models_CVPR_2023_paper.pdf)
 
@@ -19,7 +19,7 @@ citation:
     
 
 
-#### Fast sampling of diffusion models via operator learning [`UNREAD`]
+#### Fast sampling of diffusion models via operator learning
 
 paper link: [here](https://proceedings.mlr.press/v202/zheng23d/zheng23d.pdf)
 
@@ -35,7 +35,7 @@ citation:
 }
 ```
     
-#### Fast sampling of diffusion models with exponential integrator [`UNREAD`]
+#### Fast sampling of diffusion models with exponential integrator
 
 paper link: [here](https://arxiv.org/pdf/2204.13902)
 
@@ -50,7 +50,7 @@ citation:
 ```
     
 
-#### Flow straight and fast: Learning to generate and transfer data with rectified flow [`UNREAD`]
+#### Flow straight and fast: Learning to generate and transfer data with rectified flow
 
 paper link: [here](https://arxiv.org/pdf/2209.03003)
 
@@ -66,7 +66,7 @@ citation:
     
 
 
-#### Dpm-solver: A fast ode solver for diffusion probabilistic model sampling in around 10 steps [`UNREAD`]
+#### Dpm-solver: A fast ode solver for diffusion probabilistic model sampling in around 10 steps
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/260a14acce2a89dad36adc8eefe7c59e-Paper-Conference.pdf)
 
@@ -82,7 +82,7 @@ citation:
 }
 ```
 
-#### Progressive distillation for fast sampling of diffusion models [`UNREAD`]
+#### Progressive distillation for fast sampling of diffusion models
 
 paper link: [here](https://arxiv.org/pdf/2202.00512)
 

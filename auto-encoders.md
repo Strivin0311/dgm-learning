@@ -2,7 +2,7 @@
 *Here're some resources about Auto Encoders*
 
 
-#### Tree Variational Autoencoders (TVA) [`UNREAD`]
+#### Tree Variational Autoencoders (TVA)
 
 paper link: [here](https://arxiv.org/pdf/2306.08984)
 
@@ -18,7 +18,7 @@ citation:
     
 
 
-#### Deep feature consistent variational autoencoder (DVAE) [`READ`]
+#### Deep feature consistent variational autoencoder (DVAE)
 
 paper link: [here](https://arxiv.org/pdf/1610.00291)
 
@@ -37,7 +37,7 @@ citation:
 here's a notebook tutorial about generating MNIST using `Auto Encoder`: [here](./notebooks/auto-encoder-for-mnist.ipynb)
 
 
-#### Autoencoding beyond pixels using a learned similarity metric [`READ`]
+#### Autoencoding beyond pixels using a learned similarity metric
 
 paper link: [here](http://proceedings.mlr.press/v48/larsen16.pdf)
 
@@ -55,7 +55,7 @@ citation:
     
 
     
-#### Auto-encoding variational bayes (VAE) [`READ`]
+#### Auto-encoding variational bayes (VAE)
 
 paper link: [here](https://arxiv.org/pdf/1312.6114.pdf)
 

@@ -3,7 +3,7 @@
 
 
 
-#### Loss-sensitive generative adversarial networks on lipschitz densities [`READ`]
+#### Loss-sensitive generative adversarial networks on lipschitz densities
 
 paper link: [here](https://arxiv.org/pdf/1701.06264.pdf%C3%A3%E2%82%AC%E2%80%98)
 
@@ -22,7 +22,7 @@ citation:
 ```
     
 
-#### How does lipschitz regularization influence GAN training? [`READ`]
+#### How does lipschitz regularization influence GAN training?
 
 paper link: [here](https://repository.kaust.edu.sa/bitstream/handle/10754/665819/Conference%20Paperfile1.pdf?sequence=1&isAllowed=y)
 
@@ -39,7 +39,7 @@ citation:
 ```
     
 
-#### Spectral normalization for generative adversarial networks [`READ`]
+#### Spectral normalization for generative adversarial networks
 
 paper link: [here](https://arxiv.org/pdf/1802.05957)
 
@@ -53,7 +53,7 @@ citation:
 }
 ```
 
-#### Progressive growing of gans for improved quality, stability, and variation [`UNREAD`]
+#### Progressive growing of gans for improved quality, stability, and variation
 
 paper link: [here](https://arxiv.org/pdf/1710.10196.pdf%C2%A0)
 
@@ -70,7 +70,7 @@ citation:
     
 
 
-#### Least squares generative adversarial networks [`READ`]
+#### Least squares generative adversarial networks
 
 paper link: [here](http://openaccess.thecvf.com/content_ICCV_2017/papers/Mao_Least_Squares_Generative_ICCV_2017_paper.pdf)
 
@@ -87,7 +87,7 @@ citation:
     
 
 
-#### Improved training of wasserstein gans [`READ`]
+#### Improved training of wasserstein gans
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/892c3b1c6dccd52936e27cbd0ff683d6-Paper.pdf)
 
@@ -103,7 +103,7 @@ citation:
 ```
 
 
-#### Wasserstein generative adversarial networks [`READ`]
+#### Wasserstein generative adversarial networks
 
 paper link: [here](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf)
 
@@ -123,7 +123,7 @@ here's a notebook about generating hourse images on CIFAR10 dataset using `WGAN`
     
 
 
-#### Infogan: Interpretable representation learning by information maximizing generative adversarial nets [`UNREAD`]
+#### Infogan: Interpretable representation learning by information maximizing generative adversarial nets
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2016/file/7c9d0b1f96aebd7b5eca8c3edaa19ebb-Paper.pdf)
 
@@ -140,7 +140,7 @@ citation:
     
         
 
-#### Unrolled generative adversarial networks [`UNREAD`]
+#### Unrolled generative adversarial networks
 
 paper link: [here](https://arxiv.org/pdf/1611.02163.pdf)
 
@@ -156,7 +156,7 @@ citation:
     
 
 
-#### Improved techniques for training gans [`READ`]
+#### Improved techniques for training gans
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2016/file/8a3363abe792db2d8761d6403605aeb7-Paper.pdf)
 
@@ -172,7 +172,7 @@ citation:
 ```
 
 
-#### Energy-based generative adversarial network [`READ`]
+#### Energy-based generative adversarial network
 
 paper link: [here](https://arxiv.org/pdf/1609.03126.pdf)
 

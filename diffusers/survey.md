@@ -4,7 +4,7 @@
 
 
 
-#### Diffusion models in vision: A survey [`UNREAD`]
+#### Diffusion models in vision: A survey
 
 paper link: [here](https://arxiv.org/pdf/2209.04747)
 
@@ -20,7 +20,7 @@ citation:
 ```
 
 
-#### Diffusion models: A comprehensive survey of methods and applications [`UNREAD`]
+#### Diffusion models: A comprehensive survey of methods and applications
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3626235)
 

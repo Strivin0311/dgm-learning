@@ -2,7 +2,7 @@
 *Here're some resources about Improved Transformers*
 
 
-#### RWKV: Reinventing RNNs for the Transformer Era [`UNREAD`]
+#### RWKV: Reinventing RNNs for the Transformer Era
 
 paper link: [here](https://arxiv.org/pdf/2305.13048)
 
@@ -17,7 +17,7 @@ citation:
 ```
 
 
-#### A Study on ReLU and Softmax in Transformer [`UNREAD`]
+#### A Study on ReLU and Softmax in Transformer
 
 paper link: [here](https://arxiv.org/pdf/2302.06461)
 
@@ -33,7 +33,7 @@ citation:
     
 
 
-#### Meta-transformer: A unified framework for multimodal learning [`UNREAD`]
+#### Meta-transformer: A unified framework for multimodal learning
 
 paper link: [here](https://arxiv.org/pdf/2307.10802)
 
@@ -47,7 +47,7 @@ citation:
 }
 ```
 
-#### Perceiver io: A general architecture for structured inputs & outputs [`UNREAD`]
+#### Perceiver io: A general architecture for structured inputs & outputs
 
 paper link: [here](https://arxiv.org/pdf/2107.14795.pdf)
 
@@ -63,7 +63,7 @@ citation:
     
     
 
-#### Pay attention to mlps [`READ`]
+#### Pay attention to mlps
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/4cc05b35c2f937c5bd9e7d41d3686fff-Paper.pdf)
 
@@ -79,7 +79,7 @@ citation:
 }
 ```
 
-#### Glu variants improve transformer [`READ`]
+#### Glu variants improve transformer
 
 paper link: [here](https://arxiv.org/pdf/2002.05202.pdf)
 
@@ -95,7 +95,7 @@ citation:
        
     
 
-#### The evolved transformer [`READ`]
+#### The evolved transformer
 
 paper link: [here](http://proceedings.mlr.press/v97/so19a/so19a.pdf)
 
@@ -113,7 +113,7 @@ citation:
     
 
 
-#### Convolutional self-attention networks [`READ`]
+#### Convolutional self-attention networks
 
 paper link: [here](https://arxiv.org/pdf/1904.03107)
 
@@ -128,7 +128,7 @@ citation:
 ```
 
 
-#### Modeling recurrence for transformer [`READ`]
+#### Modeling recurrence for transformer
 
 paper link: [here](https://arxiv.org/pdf/1904.03092)
 
@@ -143,7 +143,7 @@ citation:
 ```
     
 
-#### Modeling localness for self-attention networks [`READ`]
+#### Modeling localness for self-attention networks
 
 paper link: [here](https://arxiv.org/pdf/1810.10182)
 

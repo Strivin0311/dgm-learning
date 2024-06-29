@@ -5,7 +5,7 @@
 ### Video
 
 
-#### Animatediff: Animate your personalized text-to-image diffusion models without specific tuning [`UNREAD`]
+#### Animatediff: Animate your personalized text-to-image diffusion models without specific tuning
 
 paper link: [here](https://arxiv.org/pdf/2307.04725.pdf?trk=public_post_comment-text)
 
@@ -21,7 +21,7 @@ citation:
 
 
 
-#### Imagen video: High definition video generation with diffusion models [`UNREAD`]
+#### Imagen video: High definition video generation with diffusion models
 
 paper link: [here](https://arxiv.org/pdf/2210.02303)
 
@@ -36,7 +36,7 @@ citation:
 ```
 
 
-#### Video Diffusion Models [`READ`]
+#### Video Diffusion Models
 
 paper link: [here](https://arxiv.org/pdf/2204.03458.pdf)
 
@@ -57,7 +57,7 @@ citation:
 ### Text-to-Image
 
 
-#### Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation [`UNREAD`]
+#### Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf)
 
@@ -74,7 +74,7 @@ citation:
     
 
 
-#### ediffi: Text-to-image diffusion models with an ensemble of expert denoisers [`UNREAD`]
+#### ediffi: Text-to-image diffusion models with an ensemble of expert denoisers
 
 paper link: [here](https://arxiv.org/pdf/2211.01324.pdf%3C/p%3E)
 
@@ -89,7 +89,7 @@ citation:
 ```
     
 
-#### Photorealistic text-to-image diffusion models with deep language understanding [`READ`]
+#### Photorealistic text-to-image diffusion models with deep language understanding
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf)
 
@@ -108,7 +108,7 @@ citation:
 
 ### Robotics
 
-#### Imitating human behaviour with diffusion models [`UNREAD`]
+#### Imitating human behaviour with diffusion models
 
 paper link: [here](https://arxiv.org/pdf/2301.10677)
 
@@ -123,7 +123,7 @@ citation:
 ```
     
 
-#### Is conditional generative modeling all you need for decision-making? [`UNREAD`]
+#### Is conditional generative modeling all you need for decision-making?
 
 paper link: [here](https://arxiv.org/pdf/2211.15657)
 
@@ -138,7 +138,7 @@ citation:
 ```
     
 
-#### Planning with diffusion for flexible behavior synthesis [`UNREAD`]
+#### Planning with diffusion for flexible behavior synthesis
 
 paper link: [here](https://arxiv.org/pdf/2205.09991)
 
@@ -154,7 +154,7 @@ citation:
     
 ### Audio
 
-#### AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models [`UNREAD`]
+#### AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models
 
 paper link: [here](https://arxiv.org/pdf/2304.00830)
 

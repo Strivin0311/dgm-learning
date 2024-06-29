@@ -2,7 +2,7 @@
 *Here're some resources about Survey on Transformers*
 
 
-#### Multimodal learning with transformers: A survey [`UNREAD`]
+#### Multimodal learning with transformers: A survey
 
 paper link: [here](https://ieeexplore.ieee.org/iel7/34/4359286/10123038.pdf)
 
@@ -19,7 +19,7 @@ citation:
     
 
 
-#### Video transformers: A survey [`UNREAD`]
+#### Video transformers: A survey
 
 paper link: [here](https://arxiv.org/pdf/2201.05991)
 
@@ -36,7 +36,7 @@ citation:
     
 
 
-#### Transformers in time series: A survey [`UNREAD`]
+#### Transformers in time series: A survey
 
 paper link: [here](https://arxiv.org/pdf/2202.07125)
 
@@ -50,7 +50,7 @@ citation:
 }
 ```
 
-#### A survey of transformers [`UNREAD`]
+#### A survey of transformers
 
 paper link: [here](https://www.sciencedirect.com/science/article/pii/S2666651022000146)
 
@@ -66,7 +66,7 @@ citation:
 ```
 
 
-#### On word embeddings - Part 2: Approximating the Softmax [`UNREAD`]
+#### On word embeddings - Part 2: Approximating the Softmax
 
 blog link: [here](https://www.ruder.io/word-embeddings-softmax/)
 

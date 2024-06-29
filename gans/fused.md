@@ -4,7 +4,7 @@
 
 
 
-#### Diffusion-gan: Training gans with diffusion [`UNREAD`]
+#### Diffusion-gan: Training gans with diffusion
 
 paper link: [here](https://arxiv.org/pdf/2206.02262)
 
@@ -19,7 +19,7 @@ citation:
 ```
     
     
-#### Vitgan: Training gans with vision transformers [`UNREAD`]
+#### Vitgan: Training gans with vision transformers
 
 paper link: [here](https://arxiv.org/pdf/2107.04589)
 
@@ -35,7 +35,7 @@ citation:
 
 
 
-#### Autoencoding beyond pixels using a learned similarity metric [`READ`]
+#### Autoencoding beyond pixels using a learned similarity metric
 
 paper link: [here](http://proceedings.mlr.press/v48/larsen16.pdf)
 

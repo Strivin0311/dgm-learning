@@ -2,7 +2,7 @@
 *Here're some resources about Survey on GANs*
 
 
-#### A review on generative adversarial networks: Algorithms, theory, and applications [`READ`]
+#### A review on generative adversarial networks: Algorithms, theory, and applications
 
 paper link: [here](https://arxiv.org/pdf/2001.06937)
 

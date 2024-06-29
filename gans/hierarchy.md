@@ -2,7 +2,7 @@
 *Here're some resources about Hierarchy GANs*
 
 
-#### Stackgan++: Realistic image synthesis with stacked generative adversarial networks [`READ`]
+#### Stackgan++: Realistic image synthesis with stacked generative adversarial networks
 
 paper link: [here](https://arxiv.org/pdf/1710.10916)
 
@@ -22,7 +22,7 @@ citation:
     
 
 
-#### Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks [`READ`]
+#### Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks
 
 paper link: [here](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf)
 
@@ -38,7 +38,7 @@ citation:
 ```
     
 
-#### Plug & play generative networks: Conditional iterative generation of images in latent space [`UNREAD`]
+#### Plug & play generative networks: Conditional iterative generation of images in latent space
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nguyen_Plug__Play_CVPR_2017_paper.pdf)
 
@@ -55,7 +55,7 @@ citation:
     
 
 
-#### Unpaired image-to-image translation using cycle-consistent adversarial networks [`READ`]
+#### Unpaired image-to-image translation using cycle-consistent adversarial networks
 
 paper link: [here](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
@@ -72,7 +72,7 @@ citation:
     
 
 
-#### Image-to-image translation with conditional adversarial networks [`READ`]
+#### Image-to-image translation with conditional adversarial networks
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
 
@@ -88,7 +88,7 @@ citation:
 ```
 
 
-#### Deep generative image models using a￼ laplacian pyramid of adversarial networks [`UNREAD`]
+#### Deep generative image models using a￼ laplacian pyramid of adversarial networks
 
 paper link: [here](https://proceedings.neurips.cc/paper/2015/file/aa169b49b583a2b5af89203c2b78c67c-Paper.pdf)
 
@@ -106,7 +106,7 @@ citation:
     
 
 
-#### Conditional generative adversarial nets [`READ`]
+#### Conditional generative adversarial nets
 
 paper link: [here](https://arxiv.org/pdf/1411.1784.pdf%EF%BC%88CGAN%EF%BC%89)
 

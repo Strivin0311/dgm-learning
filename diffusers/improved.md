@@ -2,7 +2,7 @@
 *Here're some resources about Improved Diffusers*
 
 
-#### Lcm-lora: A universal stable-diffusion acceleration module [`UNREAD`]
+#### Lcm-lora: A universal stable-diffusion acceleration module
 
 paper link: [here](https://arxiv.org/pdf/2311.05556)
 
@@ -17,7 +17,7 @@ citation:
 ```
 
 
-#### Consistency models [`READ`]
+#### Consistency models
 
 paper link: [here](https://openreview.net/pdf?id=FmqFfMTNnv)
 
@@ -31,7 +31,7 @@ citation:
 ```
 
 
-#### A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence [`UNREAD`]
+#### A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence
 
 paper link: [here](https://arxiv.org/pdf/2305.15347)
 
@@ -48,7 +48,7 @@ citation:
 
 
 
-#### Sdxl: Improving latent diffusion models for high-resolution image synthesis [`UNREAD`]
+#### Sdxl: Improving latent diffusion models for high-resolution image synthesis
 
 paper link: [here](https://arxiv.org/pdf/2307.01952)
 
@@ -62,7 +62,7 @@ citation:
 }
 ```
 
-#### Elucidating the design space of diffusion-based generative models [`UNREAD`]
+#### Elucidating the design space of diffusion-based generative models
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/a98846e9d9cc01cfb87eb694d946ce6b-Paper-Conference.pdf)
 
@@ -80,7 +80,7 @@ citation:
     
     
 
-#### High-resolution image synthesis with latent diffusion models [`READ`]
+#### High-resolution image synthesis with latent diffusion models
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
 
@@ -96,7 +96,7 @@ citation:
 ```
     
 
-#### Genie: Higher-order denoising diffusion solvers [`UNREAD`]
+#### Genie: Higher-order denoising diffusion solvers
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/c281c5a17ad2e55e1ac1ca825071f991-Paper-Conference.pdf)
 
@@ -114,7 +114,7 @@ citation:
     
 
 
-#### Sdedit: Guided image synthesis and editing with stochastic differential equations [`UNREAD`]
+#### Sdedit: Guided image synthesis and editing with stochastic differential equations
 
 paper link: [here](https://arxiv.org/pdf/2108.01073)
 
@@ -129,7 +129,7 @@ citation:
 ```
     
 
-#### Score-based generative modeling in latent space [`READ`]
+#### Score-based generative modeling in latent space
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2021/file/5dca4c6b9e244d24a30b4c45601d9720-Paper.pdf)
 
@@ -145,7 +145,7 @@ citation:
 }
 ```
 
-#### Maximum likelihood training of score-based diffusion models [`UNREAD`]
+#### Maximum likelihood training of score-based diffusion models
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/0a9fdbb17feb6ccb7ec405cfb85222c4-Paper.pdf)
 
@@ -163,7 +163,7 @@ citation:
     
     
 
-#### Improved denoising diffusion probabilistic models [`UNREAD`]
+#### Improved denoising diffusion probabilistic models
 
 paper link: [here](http://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf)
 
@@ -180,7 +180,7 @@ citation:
 ```
     
 
-#### Improved techniques for training score-based generative models [`UNREAD`]
+#### Improved techniques for training score-based generative models
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/92c3b916311a5517d9290576e3ea37ad-Paper.pdf)
 
@@ -198,7 +198,7 @@ citation:
     
 
 
-#### Score-based generative modeling through stochastic differential equations [`READ`]
+#### Score-based generative modeling through stochastic differential equations
 
 paper link: [here](https://arxiv.org/pdf/2011.13456)
 

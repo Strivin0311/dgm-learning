@@ -2,7 +2,7 @@
 *Here're some resources about Theory on Diffusers, like score matching*
 
 
-#### Understanding the latent space of diffusion models through the lens of riemannian geometry [`UNREAD`]
+#### Understanding the latent space of diffusion models through the lens of riemannian geometry
 
 paper link: [here](https://arxiv.org/pdf/2307.12868)
 
@@ -18,7 +18,7 @@ citation:
     
 
 
-#### Understanding and Mitigating Copying in Diffusion Models [`UNREAD`]
+#### Understanding and Mitigating Copying in Diffusion Models
 
 paper link: [here](https://arxiv.org/pdf/2305.20086)
 
@@ -36,7 +36,7 @@ citation:
 ### Score Matching
 
 
-#### Sliced score matching: A scalable approach to density and score estimation [`UNREAD`]
+#### Sliced score matching: A scalable approach to density and score estimation
 
 paper link: [here](http://proceedings.mlr.press/v115/song20a/song20a.pdf)
 
@@ -54,7 +54,7 @@ citation:
 
 
 
-#### A connection between score matching and denoising autoencoders [`UNREAD`]
+#### A connection between score matching and denoising autoencoders
 
 paper link: [here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8d47102fbf5e19fc37562b9e24fea0c449313703)
 
@@ -73,7 +73,7 @@ citation:
 ```
     
 
-#### Estimation of non-normalized statistical models by score matching. [`UNREAD`]
+#### Estimation of non-normalized statistical models by score matching.
 
 paper link: [here](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf)
 

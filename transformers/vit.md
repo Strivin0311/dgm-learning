@@ -2,7 +2,7 @@
 *Here're some resources about Vision in Transformers*
 
 
-#### FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization [`UNREAD`]
+#### FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization
 
 paper link: [here](https://arxiv.org/pdf/2303.14189)
 
@@ -16,7 +16,7 @@ citation:
 }
 ```
 
-#### Vision transformer with deformable attention [`UNREAD`]
+#### Vision transformer with deformable attention
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.pdf)
 
@@ -33,7 +33,7 @@ citation:
     
 
 
-#### Vilt: Vision-and-language transformer without convolution or region supervision [`UNREAD`]
+#### Vilt: Vision-and-language transformer without convolution or region supervision
 
 paper link: [here](http://proceedings.mlr.press/v139/kim21k/kim21k.pdf)
 
@@ -51,7 +51,7 @@ citation:
     
     
 
-#### Learning transferable visual models from natural language supervision [`UNREAD`]
+#### Learning transferable visual models from natural language supervision
 
 paper link: [here](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 
@@ -68,7 +68,7 @@ citation:
 ```
 
 
-#### Multi-scale vision longformer: A new vision transformer for high-resolution image encoding [`UNREAD`]
+#### Multi-scale vision longformer: A new vision transformer for high-resolution image encoding
 
 paper link: [here](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.pdf)
 
@@ -85,7 +85,7 @@ citation:
         
 
 
-#### Crossvit: Cross-attention multi-scale vision transformer for image classification [`UNREAD`]
+#### Crossvit: Cross-attention multi-scale vision transformer for image classification
 
 paper link: [here](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_CrossViT_Cross-Attention_Multi-Scale_Vision_Transformer_for_Image_Classification_ICCV_2021_paper.pdf)
 
@@ -104,7 +104,7 @@ citation:
 
 ### Surey
 
-#### Transformers in vision: A survey [`READ`]
+#### Transformers in vision: A survey
 
 paper link: [here](https://arxiv.org/pdf/2101.01169.pdf?utm_campaign=Deep)
 
@@ -123,7 +123,7 @@ citation:
 ```
     
 
-#### 3D vision with transformers: a survey [`UNREAD`]
+#### 3D vision with transformers: a survey
 
 paper link: [here](https://arxiv.org/pdf/2208.04309)
 

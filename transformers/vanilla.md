@@ -2,7 +2,7 @@
 *Here're some resources about Vanilla Transformers*
 
 
-#### Attention is all you need [`READ`]
+#### Attention is all you need
 
 paper link: [here](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 

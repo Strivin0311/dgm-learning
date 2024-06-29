@@ -2,7 +2,7 @@
 *Here're some resources about Vanilla GANs*
 
 
-#### Nips 2016 tutorial: Generative adversarial networks [`READ`]
+#### Nips 2016 tutorial: Generative adversarial networks
 
 paper link: [here](https://arxiv.org/pdf/1701.00160.pdf])
 
@@ -18,7 +18,7 @@ citation:
     
 
 
-#### Generative visual manipulation on the natural image manifold [`READ`]
+#### Generative visual manipulation on the natural image manifold
 
 paper link: [here](https://arxiv.org/pdf/1609.03552)
 
@@ -38,7 +38,7 @@ here's a notebook about generating human faces on CelebA dataset using `DCGAN`: 
     
 
 
-#### Unsupervised representation learning with deep convolutional generative adversarial networks [`READ`]
+#### Unsupervised representation learning with deep convolutional generative adversarial networks
 
 paper link: [here](https://arxiv.org/pdf/1511.06434.pdf%C3)
 
@@ -52,7 +52,7 @@ citation:
 }
 ```
 
-#### Generative adversarial nets [`READ`]
+#### Generative adversarial nets
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 
